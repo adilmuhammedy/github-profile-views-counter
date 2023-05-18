@@ -40,7 +40,7 @@ GitHub magic will happen as soon as you will create a new repository named equal
 You need to add counter in README.md file in your profile repository via Markdown syntax:
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=adilmuhammedy)
 ```
 
 > **NOTE**: Don't forget to replace example `your-github-username` parameter with real value.
@@ -68,13 +68,13 @@ You can use any valid HEX color or pick from a predefined set of named colors (`
 **Named color**
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=adilmuhammedy&color=green)
 ```
 
 **Hex color**
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=adilmuhammedy&color=dc143c)
 ```
 
 > **NOTE**: HEX colors should be used without `#` symbol prefix.
@@ -101,7 +101,7 @@ You can overwrite default `Profile views` text with your own label.
 ![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
 
 ```markdown
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=adilmuhammedy&label=PROFILE+VIEWS)
 ```
 
 > **NOTE**: Replace whitespace with `+` character in multi-word labels.
